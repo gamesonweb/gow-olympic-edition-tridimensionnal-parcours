@@ -15,18 +15,6 @@
 -   **Grapin gauche** : `Clic gauche`
 -   **Grapin droit** : `Clic droit`
 
-## 📋 Comment jouer
-
-1. **Installation** :
-    - Téléchargez le jeu depuis notre plateforme.
-    - Installez selon les instructions fournies.
-2. **Démarrage** :
-    - Lancez le jeu.
-    - Choisissez un parcours.
-3. **Jouez** :
-    - Naviguez à travers le parcours en utilisant les grapins et les commandes de déplacement.
-    - Atteignez l'arrivée aussi vite que possible pour enregistrer votre meilleur temps.
-
 ## 🖥️ Configuration requise
 
 -   **OS**: Windows 10 / MacOS / Linux
